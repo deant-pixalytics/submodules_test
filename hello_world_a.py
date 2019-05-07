@@ -9,4 +9,5 @@ def hello():
 if __name__ == "__main__":
     hello()
     b.hello()
+    b.something_else()
     
