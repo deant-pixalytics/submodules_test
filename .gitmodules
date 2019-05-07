@@ -1,3 +1,6 @@
 [submodule "submodules_test_b"]
 	path = submodules_test_b
 	url = https://github.com/deant-pixalytics/submodules_test_b.git
+[submodule "submodules_test_c"]
+	path = submodules_test_c
+	url = https://github.com/deant-pixalytics/submodules_test_c.git
